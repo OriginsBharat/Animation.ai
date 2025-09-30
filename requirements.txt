@@ -1,0 +1,12 @@
+PyQt6
+requests
+duckduckgo-search
+yt-dlp
+librosa
+Pillow
+pyqtgraph
+torch
+diffusers
+transformers
+accelerate
+safetensors
